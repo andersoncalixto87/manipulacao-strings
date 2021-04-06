@@ -1,0 +1,11 @@
+C:\Users\anderson.calixto\source\repos\manipulando-string\bin\Debug\netcoreapp2.1\manipulando-string.deps.json
+C:\Users\anderson.calixto\source\repos\manipulando-string\bin\Debug\netcoreapp2.1\manipulando-string.runtimeconfig.json
+C:\Users\anderson.calixto\source\repos\manipulando-string\bin\Debug\netcoreapp2.1\manipulando-string.runtimeconfig.dev.json
+C:\Users\anderson.calixto\source\repos\manipulando-string\bin\Debug\netcoreapp2.1\manipulando-string.dll
+C:\Users\anderson.calixto\source\repos\manipulando-string\bin\Debug\netcoreapp2.1\manipulando-string.pdb
+C:\Users\anderson.calixto\source\repos\manipulando-string\obj\Debug\netcoreapp2.1\manipulando-string.csprojAssemblyReference.cache
+C:\Users\anderson.calixto\source\repos\manipulando-string\obj\Debug\netcoreapp2.1\manipulando-string.csproj.CoreCompileInputs.cache
+C:\Users\anderson.calixto\source\repos\manipulando-string\obj\Debug\netcoreapp2.1\manipulando-string.AssemblyInfoInputs.cache
+C:\Users\anderson.calixto\source\repos\manipulando-string\obj\Debug\netcoreapp2.1\manipulando-string.AssemblyInfo.cs
+C:\Users\anderson.calixto\source\repos\manipulando-string\obj\Debug\netcoreapp2.1\manipulando-string.dll
+C:\Users\anderson.calixto\source\repos\manipulando-string\obj\Debug\netcoreapp2.1\manipulando-string.pdb
